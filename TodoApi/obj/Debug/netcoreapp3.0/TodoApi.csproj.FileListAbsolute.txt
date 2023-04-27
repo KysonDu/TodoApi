@@ -1,0 +1,589 @@
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.exe
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.deps.json
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.json
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.dev.json
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csprojAssemblyReference.cache
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.xml
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfo.cs
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CopyComplete
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.dll
+C:\Users\DHR\Desktop\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.exe
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.deps.json
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.json
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.dev.json
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csprojAssemblyReference.cache
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.xml
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfo.cs
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CopyComplete
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.dll
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\DHR\Desktop\有用文件\.Net Core\ASP.NET Core项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.StaticWebAssets.xml
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.exe
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.deps.json
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.json
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CopyComplete
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\Admin\OneDrive - Kyson\桌面\学习.NET Core\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.StaticWebAssets.xml
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.exe
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.deps.json
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.json
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Pack.cache
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CopyComplete
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.dll
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Users\Admin\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.genruntimeconfig.cache
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.StaticWebAssets.xml
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.json
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.exe
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.deps.json
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.json
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.dev.json
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.pdb
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Pipelines.Sockets.Unofficial.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\StackExchange.Redis.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.IO.Pipelines.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.AssemblyReference.cache
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfoInputs.cache
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfo.cs
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Pack.cache
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.TodoApi.props
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.RazorTargetAssemblyInfo.cache
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CopyComplete
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.pdb
+D:\我的文件\我的项目\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.genruntimeconfig.cache
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.VisualBasic.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TimedJob.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\debian-x64\native\libuv.so
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\fedora-x64\native\libuv.so
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\opensuse-x64\native\libuv.so
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\osx\native\libuv.dylib
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\rhel-x64\native\libuv.so
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win7-arm\native\libuv.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\libuv.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win7-x86\native\libuv.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\appsettings.json
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.StaticWebAssets.xml
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\log4net.config
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.exe
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.deps.json
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.json
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.dev.json
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.pdb
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\log4net.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.VisualBasic.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Pipelines.Sockets.Unofficial.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\StackExchange.Redis.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\System.IO.Pipelines.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\TimedJob.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\debian-x64\native\libuv.so
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\fedora-x64\native\libuv.so
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\opensuse-x64\native\libuv.so
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\osx\native\libuv.dylib
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\rhel-x64\native\libuv.so
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win7-arm\native\libuv.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\libuv.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win7-x86\native\libuv.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.AssemblyReference.cache
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfoInputs.cache
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfo.cs
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Pack.cache
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.TodoApi.props
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.RazorTargetAssemblyInfo.cache
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CopyComplete
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.dll
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.pdb
+D:\我的文件\我的项目\TodoApi-副本\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.genruntimeconfig.cache
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\log4net.config
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\log4net.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\ICSharpCode.SharpZipLib.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\NPOI.OOXML.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\NPOI.OpenXml4Net.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\NPOI.OpenXmlFormats.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\NPOI.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\我的文件\我的项目\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\log4net.config
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.exe
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.deps.json
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.json
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\log4net.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.VisualBasic.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\NPOI.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\StackExchange.Redis.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TimedJob.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\debian-x64\native\libuv.so
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\fedora-x64\native\libuv.so
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\osx\native\libuv.dylib
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\rhel-x64\native\libuv.so
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win7-arm\native\libuv.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\libuv.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win7-x86\native\libuv.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Pack.cache
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.csproj.CopyComplete
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.dll
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Users\Administrator\Desktop\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.genruntimeconfig.cache
